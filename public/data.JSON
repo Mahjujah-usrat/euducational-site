@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "60786bff4f193a443cfe4247",
+    "name": "Harvard University",
+    "location": "Massachusetts ",
+    "subjects": "all Subject Available",
+    "serviceCharge": 955,
+    "type": "partial",
+    "rank": 796,
+    "image": "https://i.ibb.co/yyHm6MP/university3.jpg"
+  },
+  {
+    "_id": "6078739fdeaa9e7f48e61d22",
+    "name": "The University of California",
+    "location": "Los Angeles",
+    "subjects": "all Subject Avilable",
+    "serviceCharge": 999,
+    "type": "full free",
+    "rank": 18,
+    "image": "https://i.ibb.co/pKyVH70/university2.jpg"
+  },
+  {
+    "_id": "607873f4deaa9e7f48e61d23",
+    "name": "Yale University University",
+    "location": "Connecticut",
+    "subjects": "all Subject Avilable",
+    "serviceCharge": 1900,
+    "type": "full free",
+    "rank": 28,
+    "image": "https://i.ibb.co/Y0qm8Hm/university1.jpg"
+  },
+
+  {
+    "_id": "60786bff4f193a443cfe4247",
+    "name": "Stanford University",
+    "location": "Massachusetts ",
+    "subjects": "all Subject Available",
+    "serviceCharge": 955,
+    "type": "partial",
+    "rank": 796,
+    "image": "https://i.ibb.co/yyHm6MP/university3.jpg"
+  },
+  {
+    "_id": "6078739fdeaa9e7f48e61d22",
+    "name": "The University of Southern",
+    "location": "Los Angeles",
+    "subjects": "all Subject Avilable",
+    "serviceCharge": 999,
+    "type": "full free",
+    "rank": 18,
+    "image": "https://i.ibb.co/pKyVH70/university2.jpg"
+  },
+  {
+    "_id": "607873f4deaa9e7f48e61d23",
+    "name": "Penn State University",
+    "location": "Connecticut",
+    "subjects": "all Subject Avilable",
+    "serviceCharge": 1900,
+    "type": "full free",
+    "rank": 28,
+    "image": "https://i.ibb.co/Y0qm8Hm/university1.jpg"
+  }
+]

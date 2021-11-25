@@ -1,0 +1,26 @@
+{
+    "institutionId": "string",
+    "brin": "string",
+    "name": "string",
+    "description": "string",
+    "academicCalendar": {
+      "year": "string",
+      "calender": "http://example.com"
+    },
+    "address": {
+      "street": "Moreelsepark 48",
+      "additional": "On the other side of the road",
+      "city": "Utrecht",
+      "zip": "3511 EP",
+      "countryCode": "NL"
+    },
+    "logo": "http://example.com",
+    "_links": {
+      "self": {
+        "href": "/v3/institution"
+      },
+      "educational-programmes": {
+        "href": "/v3/educational-programmes"
+      }
+    }
+  }
